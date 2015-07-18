@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\bin\Debug\NetherRaster.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\bin\Debug\NetherRaster.exe
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\bin\Debug\NetherRaster.pdb
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\bin\Debug\NetherRaster.xml
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.MainWindow.resources
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.exe
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.xml
+c:\users\owner\documents\visual studio 2013\Projects\NetherRaster\NetherRaster\obj\Debug\NetherRaster.pdb
